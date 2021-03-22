@@ -1,0 +1,14 @@
+.navbar
+{
+  background-color: rgb(60, 0, 255);
+  text-align: center;
+  color:white;
+  height: 20vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}

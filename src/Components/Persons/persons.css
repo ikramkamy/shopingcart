@@ -1,0 +1,15 @@
+.person
+{
+
+    background-color: brown;
+    display: flex;
+    font-size: 30px;
+    color: darkgray;
+    margin: 15px;
+    justify-content: space-between;
+
+}
+.st
+{
+    background-color: darkblue;
+}

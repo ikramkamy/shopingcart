@@ -1,0 +1,61 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "chocolat",
+            "price": 1200,
+            "quantity": 1 ,
+            "url":"https://static.passeportsante.net/i93379-.jpeg"
+        },
+        {
+            "id": 1,
+            "name": "cheese",
+            "price": 1200,
+            "quantity": 1 ,
+            "url":"https://www.noracooks.com/wp-content/uploads/2020/05/square.jpg"
+        },
+        {
+            "id": 2,
+            "name": "kda mena",
+            "price": 2400,
+            "quantity": 1,
+            "url":"https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg" 
+        },
+        {
+            "id": 3,
+            "name": "Ferero",
+            "price": 320,
+            "quantity": 1,
+            "url":"https://www.thepackagingcompany.us/knowledge-sharing/wp-content/uploads/sites/2/2019/12/ip-ferrero-rocher-blog-1280x720.jpg" 
+        },
+        {
+            "id": 4,
+            "name": "kinder pingui",
+            "price": 150,
+            "quantity": 1,
+            "url":"https://yasya.com.ua/364-large_default/kinder-pingui.jpg" 
+        },
+        {
+            "id": 5,
+            "name": "Zitoune",
+            "price": 100,
+            "quantity": 1 ,
+            "url":"https://static.toiimg.com/photo/69660928.cms"
+        },
+        {
+            "id": 6,
+            "name": "Mechoui",
+            "price": 1313,
+            "quantity": 1 ,
+            "url":"https://i.pinimg.com/originals/da/88/12/da8812565e031c79c33693115018b040.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Mechoui",
+            "price": 1313,
+            "quantity": 1 ,
+            "url":"https://i.pinimg.com/originals/da/88/12/da8812565e031c79c33693115018b040.jpg"
+        }
+
+    ]
+}
